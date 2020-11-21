@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![XinYang's github stats](https://github-readme-stats.vercel.app/api?username=xinydev&count_private=true&show_icons=true&theme=synthwave)
-
+<!--![XinYang's github stats](https://github-readme-stats.vercel.app/api?username=xinydev&count_private=true&show_icons=true&theme=synthwave)
+-->
 
 
 <!--
