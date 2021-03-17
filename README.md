@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--![XinYang's github stats](https://github-readme-stats.vercel.app/api?username=xinydev&count_private=true&show_icons=true&theme=synthwave)
--->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xinydev&count_private=true&show_icons=true&theme=synthwave" />
+
+
+- 🔭 I’m currently working on serverless workflow
+
 
 
 <!--
